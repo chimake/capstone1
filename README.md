@@ -71,7 +71,7 @@ To run project:
 
   Open your desired editor after cloning and run the following commands.
 
-- git clone https://github.com/Dmambo/capstone.git
+- git clone https://github.com/chimake/capstone.git
 (this will clone it into your c drive)
 
 open the folder in your editor (preferrable vs code)
